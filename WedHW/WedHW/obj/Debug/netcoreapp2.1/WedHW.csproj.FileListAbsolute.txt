@@ -1,0 +1,11 @@
+C:\Users\Veronica Inostroza\source\repos\WedHW\WedHW\bin\Debug\netcoreapp2.1\WedHW.deps.json
+C:\Users\Veronica Inostroza\source\repos\WedHW\WedHW\bin\Debug\netcoreapp2.1\WedHW.runtimeconfig.json
+C:\Users\Veronica Inostroza\source\repos\WedHW\WedHW\bin\Debug\netcoreapp2.1\WedHW.runtimeconfig.dev.json
+C:\Users\Veronica Inostroza\source\repos\WedHW\WedHW\bin\Debug\netcoreapp2.1\WedHW.dll
+C:\Users\Veronica Inostroza\source\repos\WedHW\WedHW\bin\Debug\netcoreapp2.1\WedHW.pdb
+C:\Users\Veronica Inostroza\source\repos\WedHW\WedHW\obj\Debug\netcoreapp2.1\WedHW.csprojAssemblyReference.cache
+C:\Users\Veronica Inostroza\source\repos\WedHW\WedHW\obj\Debug\netcoreapp2.1\WedHW.csproj.CoreCompileInputs.cache
+C:\Users\Veronica Inostroza\source\repos\WedHW\WedHW\obj\Debug\netcoreapp2.1\WedHW.AssemblyInfoInputs.cache
+C:\Users\Veronica Inostroza\source\repos\WedHW\WedHW\obj\Debug\netcoreapp2.1\WedHW.AssemblyInfo.cs
+C:\Users\Veronica Inostroza\source\repos\WedHW\WedHW\obj\Debug\netcoreapp2.1\WedHW.dll
+C:\Users\Veronica Inostroza\source\repos\WedHW\WedHW\obj\Debug\netcoreapp2.1\WedHW.pdb
